@@ -12,7 +12,7 @@ Over the past few weeks, I have edited many of my friends' personal statements f
 ![image](https://github.com/MatthewHo343/revise/blob/a41df1657077ce4048e7f6107f21b9b0c171bb24/example.png)
 
 ## Overview Video
-Here is a quick [video](https://www.youtube.com/watch?v=DpOQpClVgCw&ab_channel=NickFrosst) demoing the project and talking about ways in which it can be improved.
+Here is a quick [video]() demoing the project!
 
 ## Installation and Demo Use
 
