@@ -6,7 +6,7 @@ It responds to questions in the cli or streamlit chat by understanding the conte
 
 ## Motivation
 
-Over the past few weeks, I have edited many of my friends' personal statements for future opportunities (i.e. scholarships, MS programs, PhD programs, etc.). 
+Over the past few weeks, I have edited many of my friends' personal statements for future opportunities (i.e. scholarships, MS programs, PhD programs, etc.). The process of editing is time-intensive and I wanted to find a way to make it more efficient. This gave me a great idea to experiment with language models to give constructive criticism. Since language models don't have a mechanism for determining truth, the scope of this tool is limited to writing that is self-contained. This means the bot will not verify the truth behind statements but how they are used to support the objective.
 
 ## Example 
 ![image](https://user-images.githubusercontent.com/5508538/199503137-5cb0f15b-c4b5-4458-99d0-21918c0194ff.png)
